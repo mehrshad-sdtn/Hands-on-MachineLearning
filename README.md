@@ -5,5 +5,5 @@ In this chapter California housing price problem is tackled, along with it I lea
 
 ### [chapter 3](https://github.com/mehrshad-sdtn/Hands-on-MachineLearning/tree/master/3)
 In this chapter first MNIST dataset is tackled using SVM and SGD classifiers. <br/>
-As a practice I took part [Titanic Contest](https://www.kaggle.com/c/titanic/overview) and got 78.5% accuracy.
+As a practice I took part [Titanic Contest](https://www.kaggle.com/c/titanic/overview) and got 78.5% accuracy (with SVM)
 

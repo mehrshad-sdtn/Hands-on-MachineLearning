@@ -13,4 +13,4 @@ This chapter goes in depth into training models in ML, it explains how Gradient 
 Logistic regression and softmax regression and how to implement those algorithms from scratch.
 
 ### [chapter 5](https://github.com/mehrshad-sdtn/Hands-on-MachineLearning/tree/master/5)
-svm stuff
+some svm visualization on dummy data
